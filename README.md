@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src=https://www.talent-works.com/wp-content/uploads/2021/03/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png"" alt="cover" />
+<img width="100%" height = "250px"" alt="cover" />https://t3.ftcdn.net/jpg/04/82/07/90/360_F_482079087_jTfhGFhJgMeWt40zI9qhgjTQX7zXtLd0.jpg
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
