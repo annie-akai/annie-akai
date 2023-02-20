@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.lisdatasolutions.com/wp-content/uploads/2022/07/DevOps-ok.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://www.techrepublic.com/wp-content/uploads/2018/11/TR-devops-guide.jpeg" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
