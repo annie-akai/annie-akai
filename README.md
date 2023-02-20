@@ -1,15 +1,23 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://camo.githubusercontent.com/1e442492be6b779197966a710751abdb22223f19339b9d3cd0e1c8854670c69d/68747470733a2f2f7777772e636f64656d6f74696f6e2e636f6d2f6d6167617a696e652f77702d636f6e74656e742f75706c6f6164732f323032302f30392f6465766f70732d31303234783532372e706e67" alt="cover" />
 </div>
+
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=annie-akai.annie-akai)
+  
 </p>
 <div size='20px'> Hi! I'm Annie Akai. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
+
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects 
+- 
 - 👯 I’m looking to collaborate on Anything Cloud & DevOps related 
+- 
 - 💬 Talk to me about AWS, Linux, Devops and the likes  
+- 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/annie-akai?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 <a href= https://github.com/https://github.com/annie-akai?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
@@ -19,6 +27,7 @@
 <a href= https://github.com/https://github.com/annie-akai?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/https://github.com/annie-akai?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/annie-akai?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://linktr.ee/annieakai'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
@@ -30,6 +39,7 @@
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=annie-akai&count_private=true&show_icons=true&theme=default" />
 </a>
